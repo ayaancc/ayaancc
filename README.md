@@ -1,4 +1,4 @@
-# About Me: &nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaank)
+# About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaank)
 I'm currently working on an NBA wordle game inspired by Poeltl<br>I'm currently learning data structures and algorithms
 
 # Tech Stack:
