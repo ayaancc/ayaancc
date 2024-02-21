@@ -1,5 +1,6 @@
 # About Me:
-I'm currently working on an NBA wordle game inspired by Poeltl<br>I'm currently learning data structures and algorithms<br>
+I'm currently working on an NBA wordle game inspired by Poeltl<br>I'm currently learning data structures and algorithms
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaank) 
 
 # Tech Stack:
