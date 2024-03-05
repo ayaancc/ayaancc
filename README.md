@@ -1,5 +1,5 @@
 # About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaank)
-I'm currently working on an NBA wordle game inspired by Poeltl<br>I'm currently learning data structures and algorithms
+I'm currently working on an AI powered book summarizer to solve memory fade.
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
